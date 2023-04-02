@@ -16,4 +16,3 @@ This is a Python project that aims to predict the credit worthiness of customers
 ## 💻 Installation
 
 To run the project, you will need to install Python 3.x and the following libraries using pip:
-
